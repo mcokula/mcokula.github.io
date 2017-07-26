@@ -700,6 +700,7 @@ a.light-text:focus {
   .intro-video .carousel h4 {
     font-size: 26px;
     height: auto;
+    color: black;
   }
 }
 .intro-dark-bg {

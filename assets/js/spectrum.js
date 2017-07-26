@@ -82,7 +82,7 @@ jQuery(document).ready(function() {
 
     });
 
-    $("#project-details-carousel").owlCarousel({
+    $(".project-details-carousel").owlCarousel({
 
         navigation: true,
         slideSpeed: 300,
