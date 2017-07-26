@@ -312,7 +312,7 @@ a.light-text:focus {
   }
   .navbar-dark .nav li a,
   .navbar-light .nav li a {
-    color: #f4f5f7;
+    color: black;
     -webkit-transition: color 0.3s;
     -moz-transition: color 0.3s;
     transition: color 0.3s;
@@ -349,7 +349,7 @@ a.light-text:focus {
   .navbar-light .nav li a:focus,
   .navbar-dark .nav li a:active,
   .navbar-light .nav li a:active {
-    color: #f4f5f7;
+    color: black;
     outline: none;
     background-color: transparent;
   }
@@ -438,7 +438,7 @@ a.light-text:focus {
   font-size: 20px;
   margin: 0;
   font-family: "Pacifico", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  color: black;
 }
 .intro-img .brand-heading,
 .intro-img-half .brand-heading,
@@ -447,7 +447,7 @@ a.light-text:focus {
 .intro-video .brand-heading {
   font-size: 30px;
   margin: 0;
-  text-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  color: black;
   text-transform: uppercase;
 }
 .intro-img .intro-body,
@@ -497,9 +497,11 @@ a.light-text:focus {
   .intro-slider-half .overlay {
     display: block;
     width: 100%;
+/*
     background-color: black;
     background-image: url('../img/diagonal-noise.png');
     opacity: 0.3;
+*/
     position: absolute;
     top: 0;
     left: 0;
