@@ -90,7 +90,7 @@ body {
   webkit-tap-highlight-color: rgba(248, 148, 6, 0.5);
 }
 .owl-theme .owl-controls .owl-page span {
-  background: #c8cdd7;
+  background: white;
 }
 .owl-theme .owl-controls .owl-buttons div {
   background: #c8cdd7;
@@ -437,7 +437,9 @@ a.light-text:focus {
 .intro-video .intro-welcome {
   font-size: 20px;
   margin: 0;
-  font-family: "Pacifico", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "Pacifico", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: 'Lora', serif;
+  font-style: italic;
   color: black;
 }
 .intro-img .brand-heading,
@@ -1678,7 +1680,8 @@ ul#filters li button.btn-link.active {
   -webkit-font-smoothing: antialiased;
 }
 .services-1 .icon-effect .icon {
-  box-shadow: 0 0 0 8px rgba(248, 148, 6, 0.5);
+  /*box-shadow: 0 0 0 8px rgba(248, 148, 6, 0.5);*/
+  box-shadow: 0 0 0 8px white;
   overflow: hidden;
   -webkit-transition: background 0.3s, color 0.3s, box-shadow 0.3s;
   -moz-transition: background 0.3s, color 0.3s, box-shadow 0.3s;
@@ -1689,7 +1692,7 @@ ul#filters li button.btn-link.active {
 }
 .services-1 .icon-effect li:hover .icon {
   background: transparent;
-  color: #f89406;
+  color: white;
   box-shadow: 0 0 0 4px #f89406;
 }
 .services-1 .icon-effect li:hover .icon:before {
