@@ -1650,8 +1650,8 @@ ul#filters li button.btn-link.active {
   font-size: 0px;
   cursor: pointer;
   margin: 15px auto;
-  width: 125px;
-  height: 125px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   text-align: center;
   z-index: 1;
@@ -1673,7 +1673,7 @@ ul#filters li button.btn-link.active {
   font-family: 'fontawesome';
   speak: none;
   font-size: 50px;
-  line-height: 125px;
+  line-height: 100px;
   display: block;
   -webkit-font-smoothing: antialiased;
 }
