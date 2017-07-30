@@ -90,7 +90,7 @@ body {
   webkit-tap-highlight-color: rgba(248, 148, 6, 0.5);
 }
 .owl-theme .owl-controls .owl-page span {
-  background: rgb(150, 150, 150);
+  background: rgb(225, 225, 225);
 }
 .owl-theme .owl-controls .owl-buttons div {
   background: #3e444d
@@ -605,6 +605,7 @@ a.light-text:focus {
 .intro-img-half .carousel h4 {
   font-size: 16px;
   height: 50px;
+  color: black;
 }
 .intro-slider,
 .intro-slider-half {
@@ -694,6 +695,7 @@ a.light-text:focus {
   .intro-video .carousel h4 {
     font-size: 22px;
     height: auto;
+    color: black;
   }
 }
 @media (min-width: 1025px) {
