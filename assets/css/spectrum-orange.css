@@ -90,7 +90,7 @@ body {
   webkit-tap-highlight-color: rgba(248, 148, 6, 0.5);
 }
 .owl-theme .owl-controls .owl-page span {
-  background: #3e444d
+  background: rgb(150, 150, 150);
 }
 .owl-theme .owl-controls .owl-buttons div {
   background: #3e444d
